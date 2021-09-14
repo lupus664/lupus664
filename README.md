@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lupus664
-- 👀 I’m interested in Robot Vision, Machine Learning in Python
+- 👀 I’m interested in Robot Vision, Machine Learning and Python
 - 🌱 I’m currently learning many things, especially pyQt
 
 <!---
